@@ -15,4 +15,5 @@
     height: 32px;
     border: 1px solid black;
     border-radius: 5px;
+    cursor: pointer;
 }
