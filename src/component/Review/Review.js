@@ -37,7 +37,7 @@ const Review = () => {
 
     let  thankYou;
     if(orderPlaced){
-       thankYou= <img src={happyImage} alt=""/>
+       thankYou=<img src={happyImage} alt=""/>
     }
     return (
         <div className="twin-container"> 
